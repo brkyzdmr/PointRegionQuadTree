@@ -190,12 +190,15 @@ public class Canvas extends JFrame {
     public void searchNode(Node rootS) {
         Node focusedNode = rootS;
         Graphics g = getGraphics();
+        //Random rnd = new Random();
+        //Color clr = new Color(rnd.nextInt(255), rnd.nextInt(255), rnd.nextInt(255));
 
         if (rootS != null) {
-            if (focusedNode.x > clickedX - circleR && focusedNode.y > clickedY - circleR
-                    && focusedNode.x < clickedX + circleR && focusedNode.y < clickedY + circleR) {
+           // İki nokta arası uzaklık denklemi
+            if(Math.sqrt(Math.pow(focusedNode.x - clickedX , 2) + Math.pow(focusedNode.y - clickedY, 2)) <= circleR) {
                 //System.out.println("İçerde");
                 nodes.add(focusedNode);
+                //g.setColor(clr);
                 g.setColor(Color.red);
                 g.fillOval(focusedNode.x - 3, focusedNode.y - 3, 6, 6);
             }

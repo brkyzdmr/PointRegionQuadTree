@@ -8,7 +8,7 @@
   </information>
   <resources>
     <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
-    <jar href="ProLab2-2.jar" size="16092" download="eager" />
+    <jar href="ProLab2-2.jar" size="16145" download="eager" />
   </resources>
   <applet-desc  width="800" height="600" main-class="prolab2.pkg2.Main"  name="ProLab2-2" >
   </applet-desc>
