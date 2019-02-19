@@ -49,13 +49,13 @@ git clone https://github.com/brkyzdmr/QuadTree-Java.git
 mvn clean install exec:java
 ```
 <p align="left">
-<img src="media/cmd.gif" width="400px"</img><br>
+<img src="media/cmd.gif" width="600px"</img><br>
 </p>
 
  ## Usage
 
 <p align="left">
-<img src="media/app.gif" width="400px"</img><br>
+<img src="media/app.gif" width="600px"</img><br>
 </p>
 
 
