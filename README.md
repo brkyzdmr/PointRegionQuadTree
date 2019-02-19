@@ -69,4 +69,4 @@ mvn clean install exec:java
     * **Scroll Down:**  Decrease search circle size
 
  ## License  
-Distributed under the MIT License. See `LICENSE` for more information.  
+Distributed under the MIT License. See <a href="/LICENSE.txt">`LICENSE`</a> for more information.  
