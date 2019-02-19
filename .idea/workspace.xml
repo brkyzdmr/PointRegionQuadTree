@@ -109,8 +109,9 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="27" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1063" />
+    <option name="y" value="167" />
     <option name="width" value="930" />
     <option name="height" value="789" />
   </component>

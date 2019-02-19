@@ -4,7 +4,10 @@
 =======
 # PointRegionQuadTree-Java  
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/master
+=======
+>>>>>>> 6c1e0727bbd6b0e4cb1cb470abe7cc962a008763
 =======
 >>>>>>> 6c1e0727bbd6b0e4cb1cb470abe7cc962a008763
 
