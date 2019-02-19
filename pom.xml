@@ -8,6 +8,7 @@
     <artifactId>PointRegionQuadTree</artifactId>
     <version>1.0-SNAPSHOT</version>
     <build>
+        <sourceDirectory>main/java</sourceDirectory>
         <plugins>
             <plugin>
                 <groupId>org.codehaus.mojo</groupId>
