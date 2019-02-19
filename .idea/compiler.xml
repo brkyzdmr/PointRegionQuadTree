@@ -7,8 +7,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="PointRegionQuadTree" />
-        <module name="QuadTree" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="PointRegionQuadTree" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
