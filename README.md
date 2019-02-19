@@ -3,7 +3,10 @@
 # PointRegionQuadTree-Java
 =======
 # PointRegionQuadTree-Java  
+<<<<<<< HEAD
 >>>>>>> refs/remotes/origin/master
+=======
+>>>>>>> 6c1e0727bbd6b0e4cb1cb470abe7cc962a008763
 
 [![Build Status](https://travis-ci.org/brkyzdmr/QuadTree-Java.svg?branch=master)](https://travis-ci.org/brkyzdmr/QuadTree-Java)![GitHub commit activity](https://img.shields.io/github/commit-activity/m/brkyzdmr/QuadTree-Java.svg)[![](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/brkyzdmr/)
 
