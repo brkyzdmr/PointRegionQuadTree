@@ -2,54 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c047ca89-bcb0-4bcd-bbbd-39c3e1454926" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/build.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/build/built-jar.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/build/classes/prolab2/pkg2/Canvas$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/build/classes/prolab2/pkg2/Canvas$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/build/classes/prolab2/pkg2/Canvas$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/build/classes/prolab2/pkg2/Canvas$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/build/classes/prolab2/pkg2/Canvas$Line.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/build/classes/prolab2/pkg2/Canvas$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/build/classes/prolab2/pkg2/Canvas.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/build/classes/prolab2/pkg2/ControlPanel$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/build/classes/prolab2/pkg2/ControlPanel$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/build/classes/prolab2/pkg2/ControlPanel$3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/build/classes/prolab2/pkg2/ControlPanel$4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/build/classes/prolab2/pkg2/ControlPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/build/classes/prolab2/pkg2/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/dist/ProLab2-2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/dist/ProLab2-2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/dist/ProLab2-2.jnlp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/dist/ProLab2-2_browser.jnlp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/dist/web-files/dtjava.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/dist/web-files/error.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/dist/web-files/get_java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/dist/web-files/get_javafx.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/dist/web-files/javafx-chrome.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/dist/web-files/javafx-loading-100x100.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/dist/web-files/javafx-loading-25x25.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/dist/web-files/upgrade_java.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/dist/web-files/upgrade_javafx.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/manifest.mf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/nbproject/build-impl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/nbproject/configs/Run_as_WebStart.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/nbproject/configs/Run_in_Browser.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/nbproject/genfiles.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/nbproject/jfx-impl.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/nbproject/private/configs/Run_as_WebStart.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/nbproject/private/configs/Run_in_Browser.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/nbproject/private/private.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/nbproject/private/private.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/nbproject/project.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/nbproject/project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/nbproject/templates/FXSwingTemplate.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/nbproject/templates/FXSwingTemplateApplet.jnlp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/nbproject/templates/FXSwingTemplateApplication.jnlp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/src/com/brkyzdmr/QuadTree/Canvas.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/src/com/brkyzdmr/QuadTree/Canvas.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/src/com/brkyzdmr/QuadTree/ControlPanel.form" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/src/com/brkyzdmr/QuadTree/ControlPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/QuadTree-Java/src/com/brkyzdmr/QuadTree/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,30 +13,51 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="207">
               <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="200">
+            <state relative-caret-position="299">
               <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-7" />
+            <state>
+              <caret column="15" selection-start-column="15" selection-end-column="15" />
+            </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/.name">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.travis.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -105,11 +80,6 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/.name">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
@@ -122,6 +92,8 @@
         <option value="$PROJECT_DIR$/src/target/MANIFEST.MF" />
         <option value="$PROJECT_DIR$/target/MANIFEST.MF" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -143,7 +115,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,15 +141,16 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550594441002" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1550597090125" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -233,44 +205,54 @@
     </task>
     <servers />
   </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
   <component name="ToolWindowManager">
     <frame x="0" y="27" width="1920" height="1053" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19156884" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19583778" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32967034" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" weight="0.32967034" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="PlantUML" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32960895" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32960895" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32967034" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32967034" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="PlantUML" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added maven" />
+    <option name="LAST_COMMIT_MESSAGE" value="added maven" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/Canvas.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="23">
@@ -282,7 +264,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/target/maven-archiver/pom.properties">
+    <entry file="file://$PROJECT_DIR$/src/target/maven-archiver/pom.properties" />
+    <entry file="file://$PROJECT_DIR$/target/MANIFEST.MF" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
@@ -297,32 +288,27 @@
     <entry file="file://$PROJECT_DIR$/.idea/compiler.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="15" selection-start-column="15" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.idea/.name">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/target/MANIFEST.MF">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        <state relative-caret-position="23">
+          <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
         </state>
       </provider>
     </entry>
