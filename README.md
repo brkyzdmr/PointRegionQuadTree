@@ -1,5 +1,9 @@
 
+<<<<<<< HEAD
 # PointRegionQuadTree-Java
+=======
+# PointRegionQuadTree-Java  
+>>>>>>> refs/remotes/origin/master
 
 [![Build Status](https://travis-ci.org/brkyzdmr/QuadTree-Java.svg?branch=master)](https://travis-ci.org/brkyzdmr/QuadTree-Java)![GitHub commit activity](https://img.shields.io/github/commit-activity/m/brkyzdmr/QuadTree-Java.svg)[![](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/brkyzdmr/)
 
