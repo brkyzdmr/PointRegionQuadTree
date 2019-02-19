@@ -1,13 +1,11 @@
 
-# PointRegionQuadTree-Java  
-
- # PointRegionQuadTree-Java  
+# PointRegionQuadTree-Java
 
 [![Build Status](https://travis-ci.org/brkyzdmr/QuadTree-Java.svg?branch=master)](https://travis-ci.org/brkyzdmr/QuadTree-Java)![GitHub commit activity](https://img.shields.io/github/commit-activity/m/brkyzdmr/QuadTree-Java.svg)[![](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555)](https://www.linkedin.com/in/brkyzdmr/)
 
 <br />
 <p align="center">
-<img src="resources/PRexamp.png" alt="Logo" width="800">
+<img src="/media/PRexamp.png" alt="Logo" width="800">
 <br/>  
   <h3 align="center">Point Region Quad Tree</h3>  
   <p align="center">  
@@ -52,10 +50,10 @@ git clone https://github.com/brkyzdmr/QuadTree-Java.git
 ```bash  
 mvn clean install exec:java
 ```  
-<img src="resources/cmd.gif" width="400px"</img><br>
+<img src="/media/resources/cmd.gif" width="400px"</img><br>
 
  ## Usage  
-<img src="resources/app.gif" width="400px"</img><br>
+<img src="/media/resources/app.gif" width="400px"</img><br>
 
 
 * **Buttons**
