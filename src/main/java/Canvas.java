@@ -1,7 +1,6 @@
 /**
- * Programlama Laboratuvarı II - Proje II
  *
- * @author BerkayEzdemir 150202041
+ * @author BerkayEzdemir
  * @version 1.0.0
  * @since 07-04-2017
  */
@@ -19,7 +18,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * Quad Tree ile ilgili işlemlerin yapıldığı Tuval sınıfı
+ * Canvas class with Quad Tree operations
  */
 public class Canvas extends JFrame {
 
@@ -55,7 +54,7 @@ public class Canvas extends JFrame {
     }
 
     /**
-     * Pointer Quad Tree'yi tanımlamak için oluşturulan class
+     * Class created to identify the Point Region Quad Tree
      */
     private class Node {
 
@@ -81,10 +80,10 @@ public class Canvas extends JFrame {
     }
 
     /**
-     * Pointer Quad Tree'ye Node ekleme işini yapar
+     * Performs node insertion in Point Region Quad Tree
      *
-     * @param x Tıklanan noktadaki x
-     * @param y Tıklanan noktadaki y
+     * @param x X at the click point
+     * @param y Y at the click point
      */
     public void addNode(int x, int y) {
         int rank = 0;
@@ -182,9 +181,9 @@ public class Canvas extends JFrame {
     }
 
     /**
-     * Pointer Quad Tree üzerinde preorder dolaşma yapar
+     * Makes preorder navigation on the Point Region Quad Tree.
      *
-     * @param rootS Preorder kökü
+     * @param rootS Preorder root
      */
     public void searchNode(Node rootS) {
         Node focusedNode = rootS;
@@ -193,7 +192,7 @@ public class Canvas extends JFrame {
         //Color clr = new Color(rnd.nextInt(255), rnd.nextInt(255), rnd.nextInt(255));
 
         if (rootS != null) {
-           // İki nokta arası uzaklık denklemi
+           // Equation between two points
             if(Math.sqrt(Math.pow(focusedNode.x - clickedX , 2) + Math.pow(focusedNode.y - clickedY, 2)) <= circleR) {
                 //System.out.println("İçerde");
                 nodes.add(focusedNode);
@@ -211,8 +210,7 @@ public class Canvas extends JFrame {
     }
 
     /**
-     * Ekrandaki nodeların çizgilerini çizmek için gerekli bilgileri saklayan
-     * class
+     * Class that stores information needed to draw lines of nodes on the screen
      */
     public static class Line {
 
@@ -240,24 +238,24 @@ public class Canvas extends JFrame {
     }
 
     /**
-     * Nodelar için ekrandaki çizgileri çizen fonksiyon
+     * The function that draws lines on the screen for nodes
      *
-     * @param x1 Çizilecek çizginin başlangıç x'i
-     * @param y1 Çizilecek çizginin başlangıç y'si
-     * @param x2 Çizilecek çizginin bitiş x'i
-     * @param y2 Çizilecek çizginin bitiş y'si
-     * @param colorDot Çizilecek çizgideki nokranın rengi
-     * @param colorLine Çizilecek çizginin rengi
-     * @param x Node'un belirtildiği noktanın x'i
-     * @param y Node'un belirtildiği noktanın y'si
-     * @param name Noktanın numarası
+     * @param x1 Starting x of the line to be drawn
+     * @param y1 Starting y of the line to be drawn
+     * @param x2 Ending x of the line to be drawn
+     * @param y2 Ending y of the line to be drawn
+     * @param colorDot The color of the dot on the line to be drawn
+     * @param colorLine The color of the line to be drawn
+     * @param x The x of the point where the node is specified
+     * @param y The y of the point where the node is specified
+     * @param name Number of the point
      */
     public void addLine(int x1, int x2, int y1, int y2, Color colorDot, Color colorLine, int x, int y, int name) {
         lines.add(new Line(x1, y1, x2, y2, colorDot, colorLine, x, y, name));
     }
 
     /**
-     * Nodeların ekrandaki çizgilerini ve Node'u silen fonksiyon
+     * Function that deletes the node's lines and node
      */
     public void deleteLine() {
         lines.clear();
@@ -269,10 +267,9 @@ public class Canvas extends JFrame {
     }
 
     /**
-     * Canvas classı için oluşturulan statik nesneyi göndermek için oluşturulan
-     * fonksiyon
+     * Function created to send static object created for Canvas class
      *
-     * @return Canvas sınıfına ait statik bir nesne geriye döndürür
+     * @return Returns a static object of the Canvas class.
      */
     public static Canvas getInstance() {
         return sgCanvas;
@@ -350,7 +347,7 @@ public class Canvas extends JFrame {
             g.drawOval(x - circleR, y - circleR, circleR * 2, circleR * 2);
             searchNode(root);
 
-            // Daire içerisindeki nodeları xlerine göre sıralıyor
+            // It lists the nodes in the circle according to their x's.
             Collections.sort(nodes, (Node o1, Node o2) -> {
                 if (o1.x < o2.x) {
                     return -1;
@@ -396,7 +393,7 @@ public class Canvas extends JFrame {
             y = evt.getPoint().y;
 
             g.drawOval(x - circleR, y - circleR, circleR * 2, circleR * 2);
-            // Ekran yenilenme hızını düşürmek için kullanıldı
+            // The screen was used to lower the refresh rate.
             try {
                 Thread.sleep(150);
             } catch (InterruptedException ex) {
@@ -408,9 +405,9 @@ public class Canvas extends JFrame {
     }//GEN-LAST:event_formMouseMoved
 
     /**
-     * Ekranda rastgele Nodelar oluşturmak için kullanılan fonksiyon
+     * Function used to create random nodes on the screen
      *
-     * @param value Rastgele oluşturulacak Nodeların sayısı
+     * @param value Number of nodes to generate randomly
      */
     public void randomNodes(int value) {
         int randX, randY;
@@ -431,9 +428,9 @@ public class Canvas extends JFrame {
     }
 
     /**
-     * Ekrana çizim işlemini yapan kütüphane fonksiyonu
+     * Library function drawing the screen
      *
-     * @param g Graphics nesnesi
+     * @param g Graphics object
      */
     @Override
     public void paint(Graphics g) {

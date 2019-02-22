@@ -1,6 +1,5 @@
 /**
- * Programlama Laboratuvarı II - Proje II
- * @author BerkayEzdemir 150202041
+ * @author BerkayEzdemir
  * @version 1.0.0
  * @since  07-04-2017
  */
@@ -9,7 +8,7 @@ import java.util.Random;
 import javax.swing.JFrame;
 
 /**
- *  Quad Tree ile ilgili buton işlemlerinin yapıldığı sınıf
+ *  Point Region Quad Tree related button operations class
  */
 public class ControlPanel extends JFrame {
     
