@@ -5,8 +5,6 @@
  * @since  07-04-2017
  */
 
-package main.java;
-
 import java.util.Random;
 import javax.swing.JFrame;
 

@@ -1,16 +1,13 @@
 /**
- * Programlama Laboratuvarı II - Proje II
- * @author BerkayEzdemir 150202041
+ * @author BerkayEzdemir
  * @version 1.0.0
  * @since  07-04-2017
  */
 
-package main.java;
-
 import javax.swing.JFrame;
 
 /**
- * JFramelerin oluşturulduğu, programın ana sınıfı
+ * The main class of the program in which the JFrames are created.
  */
 public class Main {
 

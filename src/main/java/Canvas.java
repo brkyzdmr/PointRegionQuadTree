@@ -5,7 +5,6 @@
  * @version 1.0.0
  * @since 07-04-2017
  */
-package main.java;
 
 import java.awt.Color;
 import java.awt.Graphics;
